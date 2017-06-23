@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 #include <thread>
-#include <vector>
 
 #include "../waitgroup.h"
 #include "../channel.h"

@@ -1,6 +1,6 @@
 # C++ Channel & WaitGroup
 
-An implementation of Channel & WaitGroup inspired by Go. 
+An implementation of Channel & WaitGroup inspired by Go.
 
 ## Example (Channel & WaitGroup in action)
 
@@ -11,7 +11,6 @@ Examples can be found in the directory "./example":
 #include <iostream>
 #include <string>
 #include <thread>
-#include <vector>
 
 #include "../waitgroup.h"
 #include "../channel.h"
