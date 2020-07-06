@@ -1,6 +1,8 @@
 # C++ Channel & WaitGroup
 
-An implementation of Channel & WaitGroup inspired by Go.
+An implementation of Channel & WaitGroup inspired by Go. 
+
+__WARNING:__ Don't use it in production (see: https://github.com/dragonquest/cpp-channels/issues/1)
 
 ## Example (Channel & WaitGroup in action)
 
